@@ -1,7 +1,6 @@
 # Project Title: Fantastic Umbrella
 
 ### Description
-Briefly describe your project. Include the purpose of the project and what problem it solves or why it is useful.
 
 This Express.js API connects to a MySQL database using Sequelize.
 It handles CRUD operations for products, categories, and tags within an e-commerce setting.
